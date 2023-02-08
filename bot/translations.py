@@ -1,15 +1,14 @@
 class Messages:
 
     START_MSG = (
-        "Hi there {}.\n\nI'm Youtube Uploader Bot.You can use me to upload any telegram video to youtube "
-        "once you authorise me.You can know more from /help.\n\nThank you."
+        "YOU CAN UPLOAD MOVIES OR TO REMOVE COPYRIGHTS VEDIO"
     )
 
     HELP_MSG = [
         ".",
         "Hi there.\n\nFirst things first. You should be aware that youtube processes each and every video uploaded, "
         "and its AI is amazing that it flags the video for copyrights if it finds copywrited content as soon as its "
-        "uploaded, and you will not be able to publish the video.\n\nRead through all the pages to know how I work.",
+        "uploaded, and you will  be able to publish the video.\n\nRead through all the pages to know how I work.",
         "**Lets learn how I work.**\n\n**Step 1:** __You authorise me to upload to your youtube channel.More about "
         "this in comming pages.__\n\n**Step 2:** __You forward any Telegram video to me.__\n\n**Step 3:** __You reply "
         "__/upload __to the forwarded video file.You can also specify some title in the upload command, but its "
@@ -22,7 +21,7 @@ class Messages:
         "or creating a playlist.__\n\n**Step 3:** __If you don't yet have a channel, you'll see a prompt to create "
         "a channel.__\n\n**Step 4:** __Check the details and confirm to create your new channel.__",
         "**Verify your YouTube account**\n\nYoutube take spam and abuse very seriously. So you are asked to verify "
-        "your Youtube account. Once you've verified your account, you will be able to upload videos longer than 15 "
+        "your Youtube account. Once you've verified your account, you will be able to upload videos longer than 150 "
         "minutes. If you haven't verified your account every video uploaded which are longer than 15 minutes will be "
         "removed.\n[Verify your Youtube account here.](http://www.youtube.com/verify)\n\n__Remember to verify your "
         "project, else your uploads will be kept private.__",
