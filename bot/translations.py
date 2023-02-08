@@ -28,8 +28,7 @@ class Messages:
         "**Now lets authorise.**\n\nYou need to give me the access to upload videos to your Youtube account.For that "
         "open the given link and allow access and copy the code. Come back here and type `/authorise copied-code` and "
         "send it.\n\n**Fear not!**\nI'm not a hacker or someone who wants to creep into people's privacy. I respect "
-        "one's privacy. I'm here just to help anyone who wants help. If I was a hacker I won't be sitting here "
-        "writing Telegram Bots.",
+        "one's privacy. I'm here just to help anyone who wants help.any issue @alpha_romeo_06.",
     ]
 
     NOT_A_REPLY_MSG = "Please reply to some video file."
