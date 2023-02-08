@@ -42,7 +42,7 @@ async def _auth(c: UtubeBot, m: Message) -> None:
         msg2 = await msg.reply_text(cred_data, parse_mode=None)
         await msg2.reply_text(
             "This is your authorisation data! Save this for later use. Reply /save_auth_data to the authorisation "
-            "data to re authorise later. (helpful if you use Heroku)",
+            "data to re authorise later.",
             True,
         )
 
